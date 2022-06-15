@@ -10,8 +10,8 @@ This repository contains notes/walthroughs/assignments completed by [Franz](http
     * Day 1 - Intro to Python
     * Day 2 - Python Exercises and Datetimes 
     * Day 3 - APIs and Requests
-    * [Day 4](week01/w01d04)
-    * [Day 5](week01/w01d05)
+    * Day 4 - Miniproject on APIs
+    * Day 5 - Intro to SQL
 
 * [Week 2]()
 * [Week 3]()
