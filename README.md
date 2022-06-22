@@ -2,7 +2,7 @@
 
 ### Summary 
 
-This repository contains notes/walthroughs/assignments completed by [Franz](https://github.com/7vfranz) for the Lighthouse Labs Data Science Bootcamp.
+This repository contains notes/walthroughs/assignments completed by [Franz](https://github.com/7vfranz) for the Lighthouse Labs Data Science Bootcamp. Weekends are noted as Day 6 for simplicity.
 
 ### Table of Contents
 
@@ -12,8 +12,10 @@ This repository contains notes/walthroughs/assignments completed by [Franz](http
     * Day 3 - APIs and Requests
     * Day 4 - Miniproject on APIs
     * Day 5 - Intro to SQL
+    * Day 6 - SQL exercises and Intro to Pandas
 
-* [Week 2]()
+* **Week 2** 
+    * Day 1 - SQL in Python
 * [Week 3]()
 * [Week 4]()
 * [Week 5]()
